@@ -7,7 +7,7 @@ Hubot with IFTTT
 ## Installation
 
 ```
-npm i --save https://github.com/nagayama/hubot-ifttt/archive/master.tar.gz
+npm i --save https://github.com/shoya140/hubot-ifttt/archive/master.tar.gz
 ```
 
 And add `hubot-ifttt` to `external-scripts.json`.
